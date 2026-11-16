@@ -1,0 +1,159 @@
+2026-11-16 17:50:19 INFO  PortDataReader - Read 11 lines from port-data.txt
+2026-11-16 17:50:19 INFO  PortDataParser - Port configuration parsed successfully
+2026-11-16 17:50:19 INFO  PortDataParser - 10 ship configurations parsed successfully
+2026-11-16 17:50:19 INFO  Port - Port initialized. Containers: 35. Berths. 3
+2026-11-16 17:50:19 INFO  Application - Starting Ship-1
+2026-11-16 17:50:19 INFO  Application - Starting Ship-2
+2026-11-16 17:50:19 INFO  Application - Starting Ship-3
+2026-11-16 17:50:19 INFO  Application - Starting Ship-4
+2026-11-16 17:50:19 INFO  Application - Starting Ship-5
+2026-11-16 17:50:19 INFO  WaitingState - Ship 2 is ready for service
+2026-11-16 17:50:19 INFO  WaitingState - Ship 4 is ready for service
+2026-11-16 17:50:19 INFO  Ship - Ship 2 loaded 10 containers. Current containers: 35
+2026-11-16 17:50:19 INFO  WaitingState - Ship 3 is ready for service
+2026-11-16 17:50:19 INFO  WaitingState - Ship 1 is ready for service
+2026-11-16 17:50:19 INFO  Application - Starting Ship-6
+2026-11-16 17:50:19 INFO  Port - Loaded 10 containers. Containers in port 25/100
+2026-11-16 17:50:19 INFO  Ship - Ship 4 unloaded 5 containers. Current containers: 10
+2026-11-16 17:50:19 INFO  Ship - Ship 3 unloaded 5 containers. Current containers: 35
+2026-11-16 17:50:19 INFO  WaitingState - Ship 5 is ready for service
+2026-11-16 17:50:19 INFO  LoadingState - Ship 2 completed loading at berth 1
+2026-11-16 17:50:19 INFO  Application - Starting Ship-7
+2026-11-16 17:50:19 INFO  Port - Unloaded 5 containers. Containers in port: 30/100
+2026-11-16 17:50:19 INFO  Port - Unloaded 5 containers. Containers in port: 35/100
+2026-11-16 17:50:19 INFO  UnloadingState - Ship 3 completed unloading at berth 3
+2026-11-16 17:50:19 INFO  UnloadingState - Ship 4 completed unloading at berth 2
+2026-11-16 17:50:19 INFO  DepartedState - Ship 2 departed from the port
+2026-11-16 17:50:19 INFO  WaitingState - Ship 6 is ready for service
+2026-11-16 17:50:19 INFO  Application - Starting Ship-8
+2026-11-16 17:50:19 INFO  WaitingState - Ship 7 is ready for service
+2026-11-16 17:50:19 INFO  Application - Starting Ship-9
+2026-11-16 17:50:19 INFO  WaitingState - Ship 8 is ready for service
+2026-11-16 17:50:19 INFO  Application - Starting Ship-10
+2026-11-16 17:50:19 INFO  WaitingState - Ship 9 is ready for service
+2026-11-16 17:50:19 INFO  Ship - Ship 1 unloaded 5 containers. Current containers: 25
+2026-11-16 17:50:19 INFO  Port - Unloaded 5 containers. Containers in port: 40/100
+2026-11-16 17:50:19 INFO  WaitingState - Ship 10 is ready for service
+2026-11-16 17:50:19 INFO  UnloadingState - Ship 1 completed unloading at berth 1
+2026-11-16 17:50:19 INFO  Ship - Ship 6 loaded 10 containers. Current containers: 20
+2026-11-16 17:50:19 INFO  Ship - Ship 7 unloaded 5 containers. Current containers: 30
+2026-11-16 17:50:19 INFO  Ship - Ship 4 loaded 10 containers. Current containers: 20
+2026-11-16 17:50:19 INFO  Port - Loaded 10 containers. Containers in port 25/100
+2026-11-16 17:50:19 INFO  Port - Loaded 10 containers. Containers in port 30/100
+2026-11-16 17:50:19 INFO  Port - Unloaded 5 containers. Containers in port: 35/100
+2026-11-16 17:50:19 INFO  LoadingState - Ship 4 completed loading at berth 1
+2026-11-16 17:50:19 INFO  LoadingState - Ship 6 completed loading at berth 3
+2026-11-16 17:50:19 INFO  UnloadingState - Ship 7 completed unloading at berth 2
+2026-11-16 17:50:19 INFO  DepartedState - Ship 4 departed from the port
+2026-11-16 17:50:19 INFO  Ship - Ship 5 unloaded 5 containers. Current containers: 15
+2026-11-16 17:50:19 INFO  DepartedState - Ship 6 departed from the port
+2026-11-16 17:50:19 INFO  Ship - Ship 3 loaded 15 containers. Current containers: 50
+2026-11-16 17:50:19 INFO  Ship - Ship 9 unloaded 5 containers. Current containers: 20
+2026-11-16 17:50:19 INFO  Port - Unloaded 5 containers. Containers in port: 30/100
+2026-11-16 17:50:19 INFO  Port - Loaded 15 containers. Containers in port 15/100
+2026-11-16 17:50:19 INFO  Port - Unloaded 5 containers. Containers in port: 20/100
+2026-11-16 17:50:19 INFO  LoadingState - Ship 3 completed loading at berth 3
+2026-11-16 17:50:19 INFO  UnloadingState - Ship 5 completed unloading at berth 1
+2026-11-16 17:50:19 INFO  UnloadingState - Ship 9 completed unloading at berth 2
+2026-11-16 17:50:19 INFO  DepartedState - Ship 3 departed from the port
+2026-11-16 17:50:19 INFO  Ship - Ship 10 unloaded 5 containers. Current containers: 15
+2026-11-16 17:50:19 INFO  Ship - Ship 8 unloaded 5 containers. Current containers: 5
+2026-11-16 17:50:19 INFO  Ship - Ship 1 loaded 10 containers. Current containers: 35
+2026-11-16 17:50:19 INFO  Port - Unloaded 5 containers. Containers in port: 25/100
+2026-11-16 17:50:19 INFO  Port - Unloaded 5 containers. Containers in port: 30/100
+2026-11-16 17:50:19 INFO  UnloadingState - Ship 10 completed unloading at berth 3
+2026-11-16 17:50:19 INFO  Port - Loaded 10 containers. Containers in port 20/100
+2026-11-16 17:50:19 INFO  UnloadingState - Ship 8 completed unloading at berth 1
+2026-11-16 17:50:19 INFO  LoadingState - Ship 1 completed loading at berth 2
+2026-11-16 17:50:19 INFO  DepartedState - Ship 10 departed from the port
+2026-11-16 17:50:19 INFO  Ship - Ship 7 loaded 15 containers. Current containers: 45
+2026-11-16 17:50:19 INFO  Port - Loaded 15 containers. Containers in port 5/100
+2026-11-16 17:50:19 INFO  DepartedState - Ship 1 departed from the port
+2026-11-16 17:50:19 INFO  LoadingState - Ship 7 completed loading at berth 3
+2026-11-16 17:50:19 INFO  DepartedState - Ship 7 departed from the port
+2026-11-16 17:54:35 INFO  PortDataReader - Read 11 lines from port-data.txt
+2026-11-16 17:54:35 INFO  PortDataParser - Port configuration parsed successfully
+2026-11-16 17:54:35 INFO  PortDataParser - 10 ship configurations parsed successfully
+2026-11-16 17:54:35 INFO  Port - Port initialized. Containers: 35. Berths. 3
+2026-11-16 17:54:35 INFO  Application - Starting Ship-1
+2026-11-16 17:54:35 INFO  Application - Starting Ship-2
+2026-11-16 17:54:35 INFO  Application - Starting Ship-3
+2026-11-16 17:54:35 INFO  Application - Starting Ship-4
+2026-11-16 17:54:35 INFO  WaitingState - Ship 2 is ready for service
+2026-11-16 17:54:35 INFO  Application - Starting Ship-5
+2026-11-16 17:54:35 INFO  WaitingState - Ship 1 is ready for service
+2026-11-16 17:54:35 INFO  WaitingState - Ship 3 is ready for service
+2026-11-16 17:54:35 INFO  WaitingState - Ship 4 is ready for service
+2026-11-16 17:54:35 INFO  Ship - Ship 2 loaded 10 containers. Current containers: 35
+2026-11-16 17:54:35 INFO  Ship - Ship 1 unloaded 5 containers. Current containers: 25
+2026-11-16 17:54:35 INFO  Application - Starting Ship-6
+2026-11-16 17:54:35 INFO  Ship - Ship 3 unloaded 5 containers. Current containers: 35
+2026-11-16 17:54:35 INFO  Port - Unloaded 5 containers. Containers in port: 30/100
+2026-11-16 17:54:35 INFO  Port - Loaded 10 containers. Containers in port 25/100
+2026-11-16 17:54:35 INFO  WaitingState - Ship 5 is ready for service
+2026-11-16 17:54:35 INFO  UnloadingState - Ship 1 completed unloading at berth 2
+2026-11-16 17:54:35 INFO  Port - Unloaded 5 containers. Containers in port: 35/100
+2026-11-16 17:54:35 INFO  Application - Starting Ship-7
+2026-11-16 17:54:35 INFO  LoadingState - Ship 2 completed loading at berth 1
+2026-11-16 17:54:35 INFO  UnloadingState - Ship 3 completed unloading at berth 3
+2026-11-16 17:54:35 INFO  WaitingState - Ship 6 is ready for service
+2026-11-16 17:54:35 INFO  Application - Starting Ship-8
+2026-11-16 17:54:35 INFO  WaitingState - Ship 7 is ready for service
+2026-11-16 17:54:35 INFO  Application - Starting Ship-9
+2026-11-16 17:54:35 INFO  WaitingState - Ship 8 is ready for service
+2026-11-16 17:54:35 INFO  Application - Starting Ship-10
+2026-11-16 17:54:35 INFO  Ship - Ship 4 unloaded 5 containers. Current containers: 10
+2026-11-16 17:54:35 INFO  DepartedState - Ship 2 departed from the port
+2026-11-16 17:54:35 INFO  Port - Unloaded 5 containers. Containers in port: 40/100
+2026-11-16 17:54:35 INFO  WaitingState - Ship 9 is ready for service
+2026-11-16 17:54:35 INFO  UnloadingState - Ship 4 completed unloading at berth 2
+2026-11-16 17:54:35 INFO  WaitingState - Ship 10 is ready for service
+2026-11-16 17:54:35 INFO  Ship - Ship 6 loaded 5 containers. Current containers: 15
+2026-11-16 17:54:35 INFO  Ship - Ship 7 unloaded 5 containers. Current containers: 30
+2026-11-16 17:54:35 INFO  Ship - Ship 10 unloaded 5 containers. Current containers: 15
+2026-11-16 17:54:35 INFO  Port - Loaded 5 containers. Containers in port 35/100
+2026-11-16 17:54:35 INFO  Port - Unloaded 5 containers. Containers in port: 40/100
+2026-11-16 17:54:35 INFO  Port - Unloaded 5 containers. Containers in port: 45/100
+2026-11-16 17:54:35 INFO  LoadingState - Ship 6 completed loading at berth 1
+2026-11-16 17:54:35 INFO  UnloadingState - Ship 7 completed unloading at berth 3
+2026-11-16 17:54:35 INFO  UnloadingState - Ship 10 completed unloading at berth 2
+2026-11-16 17:54:35 INFO  DepartedState - Ship 6 departed from the port
+2026-11-16 17:54:35 INFO  Ship - Ship 5 unloaded 5 containers. Current containers: 15
+2026-11-16 17:54:35 INFO  DepartedState - Ship 10 departed from the port
+2026-11-16 17:54:35 INFO  Ship - Ship 9 unloaded 5 containers. Current containers: 20
+2026-11-16 17:54:35 INFO  Ship - Ship 7 loaded 10 containers. Current containers: 40
+2026-11-16 17:54:35 INFO  Port - Unloaded 5 containers. Containers in port: 50/100
+2026-11-16 17:54:35 INFO  Port - Unloaded 5 containers. Containers in port: 55/100
+2026-11-16 17:54:35 INFO  Port - Loaded 10 containers. Containers in port 45/100
+2026-11-16 17:54:35 INFO  UnloadingState - Ship 5 completed unloading at berth 1
+2026-11-16 17:54:35 INFO  UnloadingState - Ship 9 completed unloading at berth 3
+2026-11-16 17:54:35 INFO  LoadingState - Ship 7 completed loading at berth 2
+2026-11-16 17:54:35 INFO  Ship - Ship 9 loaded 10 containers. Current containers: 30
+2026-11-16 17:54:35 INFO  Ship - Ship 3 loaded 10 containers. Current containers: 45
+2026-11-16 17:54:35 INFO  DepartedState - Ship 7 departed from the port
+2026-11-16 17:54:35 INFO  Port - Loaded 10 containers. Containers in port 35/100
+2026-11-16 17:54:35 INFO  Ship - Ship 4 loaded 5 containers. Current containers: 15
+2026-11-16 17:54:35 INFO  Port - Loaded 10 containers. Containers in port 25/100
+2026-11-16 17:54:35 INFO  LoadingState - Ship 9 completed loading at berth 1
+2026-11-16 17:54:35 INFO  LoadingState - Ship 3 completed loading at berth 3
+2026-11-16 17:54:35 INFO  Port - Loaded 5 containers. Containers in port 20/100
+2026-11-16 17:54:35 INFO  DepartedState - Ship 9 departed from the port
+2026-11-16 17:54:35 INFO  Ship - Ship 1 loaded 5 containers. Current containers: 30
+2026-11-16 17:54:35 INFO  DepartedState - Ship 3 departed from the port
+2026-11-16 17:54:35 INFO  LoadingState - Ship 4 completed loading at berth 2
+2026-11-16 17:54:35 INFO  Ship - Ship 8 unloaded 5 containers. Current containers: 5
+2026-11-16 17:54:35 INFO  Port - Loaded 5 containers. Containers in port 15/100
+2026-11-16 17:54:35 INFO  DepartedState - Ship 4 departed from the port
+2026-11-16 17:54:35 INFO  Ship - Ship 5 loaded 10 containers. Current containers: 25
+2026-11-16 17:54:35 INFO  Port - Unloaded 5 containers. Containers in port: 20/100
+2026-11-16 17:54:35 INFO  LoadingState - Ship 1 completed loading at berth 1
+2026-11-16 17:54:35 INFO  Port - Loaded 10 containers. Containers in port 10/100
+2026-11-16 17:54:35 INFO  UnloadingState - Ship 8 completed unloading at berth 3
+2026-11-16 17:54:35 INFO  DepartedState - Ship 1 departed from the port
+2026-11-16 17:54:35 INFO  LoadingState - Ship 5 completed loading at berth 2
+2026-11-16 17:54:35 INFO  Ship - Ship 8 loaded 5 containers. Current containers: 10
+2026-11-16 17:54:35 INFO  DepartedState - Ship 5 departed from the port
+2026-11-16 17:54:35 INFO  Port - Loaded 5 containers. Containers in port 5/100
+2026-11-16 17:54:35 INFO  LoadingState - Ship 8 completed loading at berth 1
+2026-11-16 17:54:35 INFO  DepartedState - Ship 8 departed from the port
+2026-11-16 17:54:35 INFO  Application - All ships have finished their work
